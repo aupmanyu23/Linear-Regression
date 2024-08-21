@@ -1,7 +1,7 @@
 # Linear-Regression
 LR with Medical Cost Personal Datasets + Laaso&amp;Ridge regression + Feature Engineering 
 
-In this project, we analyzed the **Medical Cost Personal Dataset** using linear regression models to predict healthcare charges based on patient characteristics, such as age, BMI, number of children, and smoking status. The dataset consisted of 1,338 entries, with no missing values, and was predominantly distributed across four regions.
+In this project, we analyzed the **Medical Cost Personal Dataset** (https://www.kaggle.com/datasets/mirichoi0218/insurance) using linear regression models to predict healthcare charges based on patient characteristics, such as age, BMI, number of children, and smoking status. The dataset consisted of 1,338 entries, with no missing values, and was predominantly distributed across four regions.
 
 1. **Exploratory Data Analysis (EDA):**
    - The distribution of charges was **right-skewed**, indicating a majority of lower healthcare costs with a few outliers.
